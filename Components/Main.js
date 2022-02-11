@@ -7,24 +7,10 @@ function Main(){
         <>
             <View>
                 <Image
-                    style={{ width: 700, height: 100 }}
-                    source={require('../Images/bw-header-logo.png')} />
+                    style={{ width: 700, height: 500 }}
+                    source={require('../Images/cnc-logo.png')} />
             </View>
-            <View>
-                    <Image
-                        style={{ width: 500, height: 100 }}
-                        source={require('../Images/teammvp-header-logo.png')} />
-            </View>
-            <View>
-                    <Image
-                        style={{ width: 500, height: 100 }}
-                        source={require('../Images/presents-header-logo.png')} />
-            </View>
-            <View>
-                    <Image
-                        style={{ width: 500, height: 500 }}
-                        source={require('../Images/gtm-header-logo.png')} />
-            </View>
+            
             
             </>
     )
