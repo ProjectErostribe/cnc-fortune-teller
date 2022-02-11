@@ -6,7 +6,7 @@ function Header(){
     return(
         <View style={styles.container}>
             <Text>
-            ABOUT  |  PROJECT GITHUB  |  BITWISE WORFORCE TRAINING  |  BITWISE WORKFORCE TRAINING TWITTER
+            ABOUT  |  PROJECT GITHUB  |  CIRCUS AND CODE COMMUNITY  |  CIRCUS AND CODE TWITTER
             </Text>
         </View>
     )
